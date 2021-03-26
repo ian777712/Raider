@@ -1,5 +1,5 @@
 {
-     "TOKEN" : "ODA2MTc4MzIwMDM5MTQ5NjMw.YBlqEQ.GbVO1wO8-5_ifm5JBDyvx5-xJSk" ,
+     "TOKEN" : process.env.TOKEN ,
      "TRIGGER" : "start" ,
      "INVITE_LINK" : "https://discord.com/api/oauth2/authorize?client_id=806178320039149630&permissions=8&scope=bot" ,
      "BAN_MESSAGE" : "Puto" ,
